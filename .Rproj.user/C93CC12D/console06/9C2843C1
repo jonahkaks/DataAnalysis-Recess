@@ -1,0 +1,115 @@
+[0m[0K]0;:/c/Users/Sarah Nakyembe/Documents/RecessR[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0Kb[0K[17G[16G[?25l$ git checkout[0K[16G[?25h[15G[16G[?25l$ git checkout S[0K[?25ha[0Kr[0Ka[0Kh[0K[?25l
+[0K[?25h[?25lerror: pathspec 'Sarah' did no[0K[1G[?25herror: pathspec 'Sarah' did not match any file(s) known to git.[0K[?25l
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hr[0Ke[0Ka[0Kt[0Ke[0K[14G[?25l$ git create S[0K[?25ha[0K[?25lr[0K[16G[?25h[17G[?25l$ git create Sara[0K[?25hh[0K[?25l
+[0K[?25hgit: 'create' is not a git command. See 'git --help'.[0K[?25l
+[0K
+The most similar command is[0K
+        reset[0K
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Ky[0K[?25l$ gi[0K[?25ht[0K[7G[?25l$ git -[0K[?25h-[0Kh[0Ke[0Kl[0Kp[0K[?25l
+[0K[?25husage: git [--version] [--help] [-C <path>] [-c <name>=<value>][0K[?25l
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path][0K
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare][0K
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>][0K
+           <command> [<args>][0K
+[0K
+These are common Git commands used in various situations:[0K
+[0K
+start a working area (see also: git help tutorial)[0K
+   clone      Clone a repository into a new directory[0K
+   init       Create an empty Git repository or reinitialize an existing one[0K
+[0K
+work on the current change (see also: git help everyday)[0K
+   add        Add file contents to the index[0K
+   mv         Move or rename a file, a directory, or a symlink[0K
+   reset      Reset current HEAD to the specified state[0K
+   rm         Remove files from the working tree and from the index[0K
+[0K
+examine the history and state (see also: git help revisions)[0K
+   bisect     Use binary search to find the commit that introduced a bug[0K
+   grep       Print lines matching a pattern[0K
+   log        Show commit logs[0K
+   show       Show various types of objects[0K
+   status     Show the working tree status[0K
+[0K
+grow, mark and tweak your common history[0K
+   branch     List, create, or delete branches[0K
+   checkout   Switch branches or restore working tree files[0K
+   commit     Record changes to the repository[0K
+   diff       Show changes between commits, commit and working tree, etc[0K
+   merge      Join two or more development histories together[0K
+   rebase     Reapply commits on top of another base tip[0K
+   tag        Create, list, delete or verify a tag object signed with GPG[0K
+[0K
+collaborate (see also: git help workflows)[0K
+   fetch      Download objects and refs from another repository[0K
+   pull       Fetch from and integrate with another repository or a local branch[0K
+   push       Update remote refs along with associated objects[0K
+[0K
+'git help -a' and 'git help -g' list available subcommands and some[0K
+concept guides. See 'git help <command>' or 'git help <concept>'[0K
+to read about a specific subcommand or concept.[0K
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0K[14G[?25l$ git branch S[0K[?25hr[0Ka[0K[?25l$ git branch Sr[0K[?25h[?25l$ git branch S[0K[?25ha[0Kr[0Ka[0Kh[0K[?25l
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.gitignore[0m[0K
+        [0;31mRecessR.Rproj[0m[0K
+[0K
+nothing added to commit but untracked files present (use "git add" to track)[0K
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0m[0K[1G[?25h[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K[?25l
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git .[0K[?25hc[0Ko[0Km[0Km[0Ki[0Kt[0K[?25l$ git .commi[0K[14G[?25h[13G[?25l$ git .comm[0K[13G[?25h[12G[?25l$ git .com[0K[12G[?25h[11G[?25l$ git .co[0K[?25h[?25l$ git .c[0K[10G[?25h[9G[?25l$ git .[0K[?25h[?25l$ git[0K[7G[?25h[6G[7G[?25l$ git a[0K[?25h[?25ld[0K[8G[?25h[9G[?25l$ git add[0K[?25h[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ G[0K[?25hI[0KT[0K[?25l$ GI[0K[?25h[?25l$ G[0K[5G[?25h[4G[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[17G[?25l$ git commit -m c""[0K[18G[?25h[?25l$ git commit -m ""[0K[17G[?25h[18G[?25l$ git commit -m "c"[0K[19G[?25h[?25l$ git commit -m "cr"[0K[20G[?25h[?25l$ git commit -m "cre"[0K[21G[?25h[?25l$ git commit -m "crea"[0K[22G[?25h[?25l$ git commit -m "creat"[0K[23G[?25h[?25l$ git commit -m "create"[0K[24G[?25h[?25l$ git commit -m "created"[0K[25G[?25h[?25l$ git commit -m "created "[0K[26G[?25h[?25l$ git commit -m "created m"[0K[27G[?25h[?25l$ git commit -m "created my"[0K[28G[?25h[?25l$ git commit -m "created my "[0K[29G[?25h[?25l$ git commit -m "created my n"[0K[30G[?25h[?25l$ git commit -m "created my ne"[0K[31G[?25h[?25l$ git commit -m "created my new"[0K[32G[?25h[?25l$ git commit -m "created my new "[0K[33G[?25h[?25l$ git commit -m "created my new"[0K[32G[?25h[?25l$ git commit -m "created my ne"[0K[31G[?25h[?25l$ git commit -m "created my n"[0K[?25h[30G[?25l$ git commit -m "created my "[0K[29G[?25h[?25l$ git commit -m "created my"[0K[28G[?25h[?25l$ git commit -m "created my "[0K[29G[?25h[?25l$ git commit -m "created my b"[0K[30G[?25h[?25l$ git commit -m "created my br"[0K[31G[?25h[?25l$ git commit -m "created my bra"[0K[32G[?25h[?25l$ git commit -m "created my bran"[0K[33G[?25h[?25l$ git commit -m "created my branc"[0K[34G[?25h[?25l$ git commit -m "created my branch"[0K[35G[?25h[36G[?25l
+[0K[?25h[master 3880096] created my branch[0K[?25l
+ 2 files changed, 17 insertions(+)[0K
+ create mode 100644 .gitignore[0K
+ create mode 100644 RecessR.Rproj[0K
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is ahead of 'origin/master' by 1 commit.[0K
+  (use "git push" to publish your local commits)[0K
+[0K
+nothing to commit, working tree clean[0K
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git [[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l
+[0K[?25hfatal: TaskCanceledException encountered.[0K[?25l
+   A task was canceled.[0K
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': S[0K[?25he[0Kr[0K4[0Kh[0K[40G[39G[38G[?25lUsername for 'https://github.com': Sr4h[0K[37G[?25h[?25lUsername for 'https://github.com': S4h[0K[37G[?25h[?25lUsername for 'https://github.com': Se4h[0K[38G[?25h[?25lUsername for 'https://github.com': SeR4h[0K[39G[?25h[40G[41G[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K[?25hPassword for 'https://SeR4h@github.com':[0K[42G[?25l
+[0K[?25hCounting objects: 4, done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (3/3), done.[0K
+Writing objects: 100% (4/4), 512 bytes | 73.00 KiB/s, done.[0K
+Total 4 (delta 1), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (1/1), completed with 1 local object.[0K[?25l
+[0K[?25hTo https://github.com/jonahkaks/RecessR/[0K[?25l
+   c4188e6..3880096  master -> master[0K
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kr[0K[?25l$ git checkou[0K[?25ht[0K[16G[?25l$ git checkout S[0K[?25ha[0Kr[0Ka[0Kh[0K[?25l
+[0K[?25hSwitched to branch 'Sarah'[0K[?25l
+[0K[?25h[?25l
+[0;32mSarah Nakyembe@SARAH [0;35m [0;33m~/Documents/RecessR[0;36m (Sarah)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25h
